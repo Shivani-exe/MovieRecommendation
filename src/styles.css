@@ -1,0 +1,41 @@
+@import url(https://fonts.googleapis.com/css2?family=Crete + Round&display=swap);
+.App {
+  @import url(https://fonts.googleapis.com/css2?family=Crete + Round&family=Lobster + Two:wght@700&display=swap);
+  font-family: sans-serif;
+  text-align: center;
+  font-family: "Crete Round", serif;
+  font-family: "Lobster Two", cursive;
+  color: red;
+  background-color: black;
+}
+body {
+  font-family: "Crete Round", serif;
+  background-color: black;
+}
+#netflix-logo {
+  font-family: "Bebas Neue";
+  font-size: 3rem;
+}
+.btn-genre {
+  padding: 1rem;
+  margin: 1rem;
+  margin-left: 4rem;
+  font-family: "Crete Round", serif;
+  border: 2px solid red;
+  border-radius: 0.5rem;
+  text-align: left;
+  color: red;
+  background-color: wheat;
+  cursor: pointer;
+}
+.list-non-bullet {
+  list-style: none;
+  padding: 1rem;
+  border: 1px solid red;
+  background-color: black;
+  margin: 1rem 20rem;
+  width: 30rem;
+  border-radius: 0.5rem;
+  text-align: left;
+  font-family: "Crete Round", serif;
+}
